@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:simuduck": "npx tsc && node dist/SimUDuck-Strategy/index.js"
+    "compile": "npx tsc",
+    "start:simuduck": "node dist/SimUDuck-Strategy/index.js",
+    "start:weatheroroma": "node dist/Weather-O-Rama-Observer/index.js"
   },
   "keywords": [],
   "author": "",
