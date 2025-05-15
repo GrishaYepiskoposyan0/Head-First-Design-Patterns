@@ -8,7 +8,8 @@
     "compile": "npx tsc",
     "start:simuduck": "node dist/SimUDuck-Strategy/index.js",
     "start:weatheroroma": "node dist/Weather-O-Rama-Observer/index.js",
-    "start:starbuzzcoffee": "node dist/StarbuzzCoffee-Decorator/index.js"
+    "start:starbuzzcoffee": "node dist/StarbuzzCoffee-Decorator/index.js",
+    "start:pizzastore": "node dist/PizzaStore-Factory/index.js"
   },
   "keywords": [],
   "author": "",
