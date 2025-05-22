@@ -9,7 +9,8 @@
     "start:simuduck": "node dist/SimUDuck-Strategy/index.js",
     "start:weatheroroma": "node dist/Weather-O-Rama-Observer/index.js",
     "start:starbuzzcoffee": "node dist/StarbuzzCoffee-Decorator/index.js",
-    "start:pizzastore": "node dist/PizzaStore-Factory/index.js"
+    "start:pizzastore": "node dist/PizzaStore-Factory/index.js",
+    "start:pizzaingredientfactory": "node dist/PizzaIngredientFactory-AbstractFactory/index.js"
   },
   "keywords": [],
   "author": "",
