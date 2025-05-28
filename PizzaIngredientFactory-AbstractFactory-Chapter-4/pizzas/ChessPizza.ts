@@ -1,7 +1,7 @@
 import { Pizza } from "./Pizza";
 import {IngredientFactory} from "../ingredients/IngredientFactory";
 
-export class ChessPizza extends Pizza{
+export class ChessPizza extends Pizza {
     ingredientFactory: IngredientFactory;
     constructor(ingredientFactory: IngredientFactory) {
         super();

@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "npx tsc",
-    "start:simuduck": "node dist/SimUDuck-Strategy/index.js",
-    "start:weatheroroma": "node dist/Weather-O-Rama-Observer/index.js",
-    "start:starbuzzcoffee": "node dist/StarbuzzCoffee-Decorator/index.js",
-    "start:pizzastore": "node dist/PizzaStore-Factory/index.js",
-    "start:pizzaingredientfactory": "node dist/PizzaIngredientFactory-AbstractFactory/index.js"
+    "start:simuduck": "node dist/SimUDuck-Strategy-Chapter-1/index.js",
+    "start:weatheroroma": "node dist/Weather-O-Rama-Observer-Chapter-2/index.js",
+    "start:starbuzzcoffee": "node dist/StarbuzzCoffee-Decorator-Chapter-3/index.js",
+    "start:pizzastore": "node dist/PizzaStore-Factory-Chapter-4/index.js",
+    "start:pizzaingredientfactory": "node dist/PizzaIngredientFactory-AbstractFactory-Chapter-4/index.js",
+    "start:chocolateboiler": "node dist/ChocolateBoiler-Singleton-Chapter-5/index.js"
   },
   "keywords": [],
   "author": "",
