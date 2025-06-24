@@ -11,7 +11,8 @@
     "start:starbuzzcoffee": "node dist/StarbuzzCoffee-Decorator-Chapter-3/index.js",
     "start:pizzastore": "node dist/PizzaStore-Factory-Chapter-4/index.js",
     "start:pizzaingredientfactory": "node dist/PizzaIngredientFactory-AbstractFactory-Chapter-4/index.js",
-    "start:chocolateboiler": "node dist/ChocolateBoiler-Singleton-Chapter-5/index.js"
+    "start:chocolateboiler": "node dist/ChocolateBoiler-Singleton-Chapter-5/index.js",
+    "start:remotecontrol": "node dist/RemoteControl-Command-Chapter-6/index.js"
   },
   "keywords": [],
   "author": "",
