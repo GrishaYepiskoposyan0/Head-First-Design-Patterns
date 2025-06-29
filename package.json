@@ -13,7 +13,8 @@
     "start:pizzaingredientfactory": "node dist/PizzaIngredientFactory-AbstractFactory-Chapter-4/index.js",
     "start:chocolateboiler": "node dist/ChocolateBoiler-Singleton-Chapter-5/index.js",
     "start:remotecontrol": "node dist/RemoteControl-Command-Chapter-6/index.js",
-    "start:turkeyadapter": "node dist/TurkeyAdapter-Adapter-Chapter-7/index.js"
+    "start:turkeyadapter": "node dist/TurkeyAdapter-Adapter-Chapter-7/index.js",
+    "start:hometheater": "node dist/HomeTheater-Facade-Chapter-7/index.js"
   },
   "keywords": [],
   "author": "",
